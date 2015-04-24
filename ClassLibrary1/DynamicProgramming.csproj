@@ -42,6 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AvoidRoads.cs" />
     <Compile Include="BadNeighbors.cs" />
     <Compile Include="CountingSort.cs" />
     <Compile Include="DoublyLinkedList.cs" />
